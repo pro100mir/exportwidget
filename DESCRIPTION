@@ -33,3 +33,4 @@ Description: 'Webshot' works great but often we want a user
              provides this static image export ability.
 License: MIT + file License
 LazyData: TRUE
+Imports: htmlwidgets
